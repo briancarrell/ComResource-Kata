@@ -40,3 +40,9 @@ sqlite3
 .DS_Store
 .settings
 .recommenders
+
+.metadata/.log
+
+.metadata/.log
+
+*.snap
